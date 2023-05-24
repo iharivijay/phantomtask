@@ -16,7 +16,8 @@
     "mongoose": "^7.2.0",
     "passport": "^0.6.0",
     "passport-facebook": "^3.0.0",
-    "razorpay": "^2.8.6"
+    "razorpay": "^2.8.6",
+    "twilio": "^4.11.1"
   },
   "type": "module"
 }
